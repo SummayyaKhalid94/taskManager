@@ -4,7 +4,7 @@ To set up this project, follow these steps:
 
 1. **Install dependencies:**
    ```bash
-   cd your-project
+   cd taskManager
    composer install
    ```
 
